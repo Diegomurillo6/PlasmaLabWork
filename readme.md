@@ -107,6 +107,7 @@ https://github.com/user-attachments/assets/86516ec3-6f80-4bfd-9832-0679053613f9
 
 
 Gliding arc discharge, another type of atmospheric plasma reactor:
+
 <img width="486" height="476" alt="gliding" src="https://github.com/user-attachments/assets/556baa69-2270-48c2-a152-b9cde5d313d3" />
 
 
