@@ -29,7 +29,7 @@ The image quality is not ideal because the plasma formed near the vacuum chamber
 Troubleshooting issues like this has been an important part of the project, requiring analysis of operating conditions, electrode geometry, pressure levels, and power supply settings.
 
 In parallel, I have been working on the automation of the plasma generation process. Since plasma experiments involving high-voltage systems can generate X-rays through bremsstrahlung radiation, 
-operating the equipment remotely improves both safety and usability.
+operating the equipment remotely improves both safety.
 
 The goal of this project is to allow both manual and automatic control of the 60 kV power supply from a safe distance. To achieve this, 
 I have been developing a system that combines machine vision, actuators, and a Python-based user interface. The machine vision system automatically reads voltage and current values directly from the power supply 
