@@ -72,14 +72,23 @@ https://github.com/user-attachments/assets/5827ced1-4b7d-4757-bbc6-9571f48d00f4
 During my time at the Plasma Laboratory, I have received training and experience in multiple areas related to plasma science, experimental engineering, and laboratory operation, including:
 
 -Plasma Activated Water (PAW) theory and experimental procedures
+
 -Operation and fundamentals of the Stellarator
+
 -Instrumentation and laboratory equipment use at CEQUIATEC
+
 -Operation of AC high-voltage power supplies for atmospheric plasma generation
+
 -Langmuir probe operation and plasma diagnostics
+
 -Operation of atmospheric plasma reactors
+
 -Statistical analysis of PAW experimental results
+
 -Atmospheric plasma dissociation processes
+
 -Optical emission spectroscopy and spectrometer operation
+
 -Vacuum technology and operation of the Industrial Applications Chamber
 
 Some pictures and videos from my trainings:
