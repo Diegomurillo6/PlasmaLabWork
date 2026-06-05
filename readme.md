@@ -42,11 +42,37 @@ Additional work may also explore machine learning approaches for plasma control 
 
 
 ## Atmospheric plasma and Plasma Activated Water (PAW) Research 
+Atmospheric plasmas have a wide range of applications, including agriculture (seed treatment, water treatment, and substrate modification), medicine (disinfection and wound treatment), and material processing. The Plasma Laboratory at TEC currently conducts research in all of these areas.
+
+During my time as a collaborator, I have worked with the Atmospheric Plasma team and have participated in research related to Plasma Activated Water (PAW), carried out in collaboration with the CEQUIATEC and CIEMTEC research centers. One of the most enriching aspects of these projects is the multidisciplinary nature of the work, where students and researchers from different engineering and scientific backgrounds collaborate toward common research objectives.
+
+The following video shows a Plasma Activated Water sample that I prepared and activated using a corona discharge system as part of a research project presented at CONESCAPAN. My work included sample preparation using a Leap100 power supply, varying activation parameters to obtain statistically meaningful samples, and performing measurements of  temperature, pH, conductivity, and oxidation-reduction potential using instrumentation available at CIEMTEC.
+
+Some pictures and videos of the process are shown below:
+
+<img width="4284" height="5712" alt="redox" src="https://github.com/user-attachments/assets/1689317a-d69b-4fca-9c04-35827e3d09fd" />
+<img width="4284" height="5712" alt="sample" src="https://github.com/user-attachments/assets/e7a8db4d-e380-41c9-a1af-2543e257570a" />
+
+<img width="4284" height="5712" alt="IMG_1485" src="https://github.com/user-attachments/assets/8a8fc3d4-0b4c-4ae4-b12b-5d6551b03795" />
 
 
+
+https://github.com/user-attachments/assets/356ba5ae-2aed-4c7f-b437-398d86952c07
+
+
+
+In this particular video, visibility inside the beaker is reduced. This is caused by a small amount of water evaporation and the production of ozone, which is generated as the surrounding air becomes ionized during the plasma discharge process.
+
+
+
+https://github.com/user-attachments/assets/5827ced1-4b7d-4757-bbc6-9571f48d00f4
 
 
 ## Training
+
+
+
+
 
 
 
