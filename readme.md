@@ -94,8 +94,9 @@ During my time at the Plasma Laboratory, I have received training and experience
 Some pictures and videos from my trainings:
 
 PAW concepts training:
-https://github.com/user-attachments/assets/8cdefdc4-7d95-4698-86f7-d3101cb10f68
 
+
+<img width="485" height="497" alt="concepts" src="https://github.com/user-attachments/assets/11838aad-de56-447b-8f28-05b12dea15cd" />
 
 Use of the AC high-voltage source and atmospheric plasma, a corona discharge: 
 
@@ -105,13 +106,8 @@ https://github.com/user-attachments/assets/86516ec3-6f80-4bfd-9832-0679053613f9
 
 
 
-
-
-
 Gliding arc discharge, another type of atmospheric plasma reactor:
-
-https://github.com/user-attachments/assets/8e2462de-87b2-4c48-a075-9386d8b89c84
-
+<img width="486" height="476" alt="gliding" src="https://github.com/user-attachments/assets/556baa69-2270-48c2-a152-b9cde5d313d3" />
 
 
 Plasma discharge in the industrial application chamber using air. This uses a similar confinement concept as the fusor project:
