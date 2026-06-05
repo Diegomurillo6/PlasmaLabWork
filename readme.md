@@ -69,6 +69,41 @@ https://github.com/user-attachments/assets/5827ced1-4b7d-4757-bbc6-9571f48d00f4
 
 
 ## Training
+During my time at the Plasma Laboratory, I have received training and experience in multiple areas related to plasma science, experimental engineering, and laboratory operation, including:
+
+-Plasma Activated Water (PAW) theory and experimental procedures
+-Operation and fundamentals of the Stellarator
+-Instrumentation and laboratory equipment use at CEQUIATEC
+-Operation of AC high-voltage power supplies for atmospheric plasma generation
+-Langmuir probe operation and plasma diagnostics
+-Operation of atmospheric plasma reactors
+-Statistical analysis of PAW experimental results
+-Atmospheric plasma dissociation processes
+-Optical emission spectroscopy and spectrometer operation
+-Vacuum technology and operation of the Industrial Applications Chamber
+
+Some pictures and videos from my trainings:
+
+PAW concepts training:
+
+https://github.com/user-attachments/assets/fbca700b-a7cf-4a51-8962-39ce60569bb7
+
+Use of the AC high-voltage source and atmospheric plasma, a corona discharge: 
+![IMG_1065](https://github.com/user-attachments/assets/210c848c-730f-4d53-a8fe-dc272ede435f)
+
+
+Gliding arc discharge, another type of atmospheric plasma reactor:
+
+![Descarga](https://github.com/user-attachments/assets/bf9ee0e7-819e-473e-ba19-d89364d2ab4c)
+
+Plasma discharge in the industrial application chamber using air. This uses a similar confinement concept as the fusor project:
+
+<img width="4284" height="5712" alt="chamber" src="https://github.com/user-attachments/assets/6bda26ec-8bfa-40ba-922e-2ff2087fc287" />
+
+
+
+
+
 
 
 
